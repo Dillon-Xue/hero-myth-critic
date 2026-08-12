@@ -1,6 +1,13 @@
 ---
 name: hero-myth-critic
+slug: hero-myth-critic
+version: 1.0.0
+displayName: 神话解毒剂·叙事防伪镜
 description: 神话解毒（元层）：判断一则传统/象征/群体叙事今天还有没有用、是否藏教条化或侵略正当化陷阱。用英雄之旅框架解读故事/辅导他人时用。
+summary: 用英雄之旅解读故事或叙事时，先拿这面镜子照出其中的教条化与侵略正当化陷阱。
+tags: [英雄之旅, 神话批判, 叙事分析, 叙事陷阱, 教条化, 侵略正当化, 符号学, 文化批评, 故事解读, 元批评, 意识形态, 解毒]
+homepage: https://github.com/Dillon-Xue/hero-myth-critic
+license: MIT
 ---
 
 # 在现代语境中解读与应用神话
